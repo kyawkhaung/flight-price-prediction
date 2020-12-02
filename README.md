@@ -2,7 +2,7 @@
 ![Flight](https://github.com/kyawkhaung/flight-price-prediction/blob/main/Flight.jpg)
 
 ### Problem Statement
-As you all know, flight ticket prices can be something hard to guess. Today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travellers saying that flight ticket prices are so unpredictable. Huh! Here we take on the challenge! As data scientists, we are gonna prove that given the right data anything can be predicted. Here you will be provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities. Data is downloaded from [Machine Hack](https://www.machinehack.com/hackathons/predict_the_flight_ticket_price_hackathon/overview) site. 
+As you all know, flight ticket prices can be something hard to guess. Today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travellers saying that flight ticket prices are so unpredictable. Huh! Here we take on the challenge! As data scientists, we are gonna prove that given the right data anything can be predicted. Here you will be provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities of India. Data is downloaded from [Machine Hack](https://www.machinehack.com/hackathons/predict_the_flight_ticket_price_hackathon/overview) site. 
 
 Size of training set: 10683 <br> 
 Size of test set: 2671 <br>
@@ -20,7 +20,7 @@ Size of test set: 2671 <br>
 <b>Additional_Info:</b> Additional information about the flight Price: The price of the ticket
 
 ### Motivation
-I bet that everyone is wondering about next vacation - how to spend your money. My family is always having conversation on when and where our next vacation should be. we may have different ideas about where to go for family vacatiion, we all have agreed that ticket price will outrageouly be expensive to recover their financial loss from this hibernating period in covid-19. My curiosity of flight ticket price lead me to work on this project to find out what the price would be when we will no longer have to worry about covid-19 and travel restriction is no longer imposed at everywhere. Of course, ticket price prediction may not make sense if you are ouside India although I hope that you may have appreciation on how powerful machine learning models are to perform such a task.
+I bet that everyone is wondering about next vacation - how to spend your money. My family is always having conversation on when and where our next vacation should be. We may have different ideas about where to go for family vacatiion, but we all have agreed that ticket price will outrageouly be expensive because airlines will definitely recover their financial loss from this hibernating period in covid-19. My curiosity of flight ticket price lead me to work on this project to find out what the price would be when we will no longer have to worry about covid-19 and travel restriction will no longer imposed. Of course, ticket price prediction may not make sense if you are ouside India although I hope that you may have appreciation on how powerful machine learning models are to perform such a task.
 
 ### Libraries used in the project
 1. Jupyter
